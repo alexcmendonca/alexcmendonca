@@ -8,7 +8,7 @@
 |Atividades|Realizadas |
 |----------|-----------|
 | MongoDB: validando dados | MongoDB: modelagem de dados |
-| [Ciência de Dados: EBAC](https://github.com/alexcmendonca/data_science_ebac) | [Databricks e Data Factory: criando e orquestrando pipelines Azure](https://github.com/alexcmendonca/pipeline-databricks-azure) |
+| [Ciência de Dados: EBAC](https://github.com/alexcmendonca/data_science_ebac) | [Databricks e Data Factory: criando e orquestrando pipelines Azure](https://github.com/alexcmendonca/pipeline-databricks-datafactory) |
 | [Databricks: criando um sistema de recomendação](https://github.com/alexcmendonca/databricks-sistema-recomendacao) | [Databricks: análise de dados](https://github.com/alexcmendonca/databricks-pyspark-analise-de-dados) |
 | [Databricks: trabalhando com diversos formatos e tipos de arquivos](https://github.com/alexcmendonca/databricks-explorando-formatos-arquivos) | [Databricks: explorer](https://github.com/alexcmendonca/databricks-explorer) |
 | [Análise Exploratória de Dados: Python](https://github.com/alexcmendonca/analise-exploratoria-dados-com-python) | [Apache Airflow: transformação de dados com Spark](https://github.com/alexcmendonca/apache-airflow-pipeline-api-datalake-com-spark) |
