@@ -3,7 +3,7 @@
 
 ### 🔭 Portfólio de Projetos e Conhecimentos
 
-💬 Clique no link para explorar repositório.
+💬 Para explorar os projetos de dados disponíveis em cada repositório, clique no link abaixo:
 
 |Atividades|Realizadas |
 |----------|-----------|
