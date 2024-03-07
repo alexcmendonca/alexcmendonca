@@ -7,7 +7,7 @@
 
 |Atividades|Realizadas |
 |----------|-----------|
-| [MongoDB: validando dados](https://github.com/alexcmendonca/mongodb-validando-dados) | MongoDB: modelagem de dados |
+| Explorando e preparando dados com o BigQuery | [MongoDB: validando dados & modelagem de dados](https://github.com/alexcmendonca/mongodb-validando-dados) |
 | [Ciência de Dados: EBAC](https://github.com/alexcmendonca/data_science_ebac) | [Databricks e Data Factory: criando e orquestrando pipelines Azure](https://github.com/alexcmendonca/pipeline-databricks-datafactory) |
 | [Databricks: criando um sistema de recomendação](https://github.com/alexcmendonca/databricks-sistema-recomendacao) | [Databricks: análise de dados](https://github.com/alexcmendonca/databricks-pyspark-analise-de-dados) |
 | [Databricks: trabalhando com diversos formatos e tipos de arquivos](https://github.com/alexcmendonca/databricks-explorando-formatos-arquivos) | [Databricks: explorer](https://github.com/alexcmendonca/databricks-explorer) |
