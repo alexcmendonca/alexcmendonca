@@ -1,5 +1,12 @@
 ### Olá 👋!
-🌱 Atualmente estou em processo de aprimoramento em ciência de dados e análise de Big Data!
+
+🖥️ **TECNOLOGIAS EM FOCO:**
+* **Banco de Dados:** MongoDB, Cassandra, Scylla, Neo4J, Redis, BigQuery, Apache Cassandra
+* **Frameworks e Plataformas:** Apache Spark, SQL Engines, Impala, Kafka, Databricks, Scala, Python, AWS, Azure, GCP, Oracle, Google Colab.
+* **Visualização e Análise de Dados:** PowerBI, Big Data, Streamlit.
+* **Inteligência Artificial e Aprendizado de Máquina:** Machine Learning e Deep Learning.
+
+🌱 Estou sempre em busca de aprender e aplicar novas tecnologias e metodologias para impulsionar projetos e contribuir para o sucesso de equipes e organizações.
 
 ### 🔭 Portfólio de Projetos e Conhecimentos
 
