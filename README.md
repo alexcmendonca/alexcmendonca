@@ -14,7 +14,7 @@
 
 |Atividades|Realizadas |
 |----------|-----------|
-| [MongoDB: modelagem de dados](https://github.com/alexcmendonca/mongodb-validando-dados) | [State Of Data 2022 - Análise exploratória de dados](https://github.com/alexcmendonca/analise-exploratoria-python-state-data-brazil) |
+| [MongoDB: modelagem de dados](https://github.com/alexcmendonca/mongodb-modelagem-de-dados) | [State Of Data 2022 - Análise exploratória de dados](https://github.com/alexcmendonca/analise-exploratoria-python-state-data-brazil) |
 | Explorando e preparando dados com o BigQuery | [MongoDB: validando dados](https://github.com/alexcmendonca/mongodb-validando-dados) |
 | [Ciência de Dados: EBAC](https://github.com/alexcmendonca/data_science_ebac) | [Databricks e Data Factory: criando e orquestrando pipelines Azure](https://github.com/alexcmendonca/pipeline-databricks-datafactory) |
 | [Databricks: criando um sistema de recomendação](https://github.com/alexcmendonca/databricks-sistema-recomendacao) | [Databricks: análise de dados](https://github.com/alexcmendonca/databricks-pyspark-analise-de-dados) |
