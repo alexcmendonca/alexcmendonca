@@ -14,6 +14,7 @@
 
 |Atividades|Realizadas |
 |----------|-----------|
+| [Airflow: Utilizando os Executores Local e Celery](https://github.com/alexcmendonca/airflow-executores-local-celery) | [MongoDB: Realizando Consultas](https://github.com/alexcmendonca/mongodb-realizando-consultas) |
 | [MongoDB: modelagem de dados](https://github.com/alexcmendonca/mongodb-modelagem-de-dados) | [State Of Data 2022 - Análise exploratória de dados](https://github.com/alexcmendonca/analise-exploratoria-python-state-data-brazil) |
 | Explorando e preparando dados com o BigQuery | [MongoDB: validando dados](https://github.com/alexcmendonca/mongodb-validando-dados) |
 | [Ciência de Dados: EBAC](https://github.com/alexcmendonca/data_science_ebac) | [Databricks e Data Factory: criando e orquestrando pipelines Azure](https://github.com/alexcmendonca/pipeline-databricks-datafactory) |
